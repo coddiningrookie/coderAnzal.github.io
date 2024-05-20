@@ -1,0 +1,88 @@
+#content {
+     background-color: white;
+     width: 50%;
+     padding: 20px;
+     margin-left: auto;
+     margin-right: auto;
+     border-radius: 20px;
+     
+     
+}
+
+body {
+     background-color: hsl(30, 54%, 90%);
+     
+
+}
+img {
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+        border-radius: 20px;
+        
+}
+.prep  {
+        background-color: hsl(330, 100%, 98%);
+        padding: 15px;
+        border-radius: 10px;
+}
+
+h2 {
+        font-family: Young serif;
+        font-weight: 400;
+        color: hsl(24, 5%, 18%);
+}
+
+p {
+        font-size: 16px;
+        font-family: Outfit;
+        overflow-wrap: break-word;
+        color: hsl(30, 10%, 34%);
+}
+
+h4 {
+        color: hsl(332, 51%, 32%);
+        font-family: Outfit;
+}
+
+ul {
+        font-family: outfit;
+        color: hsl(30, 10%, 34%);
+}
+
+ol {
+        font-family: outfit;
+        color: hsl(30, 10%, 34%);
+        
+}
+
+li::marker {
+        color: hsl(14, 45%, 36%);
+}
+
+h3 {
+        font-family: Young Serif;
+        font-weight: 400;
+        color: hsl(14, 45%, 36%);
+}
+
+th,td {
+        margin: 10px;
+        border-bottom: 1px solid hsl(30, 18%, 87%);
+        padding: 15px;
+        font-family: outfit;
+        font-weight: 700;
+}
+ .energy {
+        color: hsl(14, 45%, 36%);
+ }
+
+ .nutrients {
+        font-weight: 400;
+        color: hsl(30, 10%, 34%);
+ }
+
+ .space {
+        border-bottom: 1px solid hsl(30, 18%, 87%);
+ }
